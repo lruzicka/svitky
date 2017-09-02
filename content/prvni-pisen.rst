@@ -4,6 +4,7 @@ Moje první píseň
 :Date: 2017-09-02
 :Author: Lukáš Růžička
 :Category: Písně
+:Tags: píseň,původní,hraná
 
 | Když jsem byl potřetí v lázních
 | a poprvé v Jánských lázních

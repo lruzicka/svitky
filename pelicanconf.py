@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Lukáš Růžička'
 SITENAME = 'Svitky z pichlavé kytky'
 SITEURL = ''
+THEME = 'themes/gum'
 
 PATH = 'content'
 
