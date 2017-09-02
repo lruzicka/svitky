@@ -2,9 +2,10 @@
 ###########
 
 :Title: Černá vrána
-:Date: 2017-09-02
+:Date: 2017-09-01
 :Author: Lukáš Růžička
 :Category: Písně
+:Tags: Song Translation
 
 | Černá vráno, proč tak nízko,
 | dnes mi létáš nad hlavou,
