@@ -16,57 +16,57 @@ Právo k zabíjení
 | Znám tu ženu,
 | od nás z domu,
 | jenom tak sedí,
-| skoro až do setmění.
+| skoro až do setmění,
 | a ptá se kdo 
 | mu může vzít 
 | právo k zabíjení?
 | 
 | Pak ho vezmou, všechno naučí
-| A vypustí ho, aby žil
+| a vypustí ho, aby žil.
 | A z té cesty, kterou mu ukážou, 
-| on onemocní
-| Nádherný pohřeb je poslední cíl
-| Srdce mu vezmou jako náhradní díl
-| Znám tu ženu
-| Od nás z domu
-| Jenom tak sedí
-| Navzdory mžení
-| A ptá se kdo
-| Mu může vzít
-| Právo k zabíjení?
+| on onemocní.
+| Nádherný pohřeb je poslední cíl,
+| srdce mu vezmou jako náhradní díl.
+| Znám tu ženu,
+| od nás z domu,
+| jenom tak sedí,
+| navzdory mžení,
+| a ptá se kdo
+| mu může vzít
+| právo k zabíjení?
 | 
-| Teď je chtivý do ničení
-| Má strach, je zmatený
+| Teď je chtivý do ničení,
+| má strach, je zmatený.
 | A jeho mozek, ten mu dovedně
-| ovládají
-| Věří svým očím, že pravdivé jsou
-| A jeho oči, ty mu do očí lžou
-| Já znám tu ženu
-| Od nás z domu
-| Jenom tak sedí
-| Zima jí není
-| A ptá se kdo
-| Mu může vzít
-| Právo k zabíjení?
+| ovládají.
+| Věří svým očím, že pravdivé jsou,
+| a jeho oči, ty mu do očí lžou.
+| Já znám tu ženu,
+| od nás z domu,
+| co jen tak sedí,
+| zima jí není,
+| a ptá se kdo
+| mu může vzít
+| právo k zabíjení?
 | 
-| Můžeš být  duchovní, podvodník
-| Pohádkář, jiný lhář
-| Myslet, že světu poručíš
-| Můžeš svou roli skvěle hrát
-| někdo jiný se potom bude smát
-| Než se ze svých chyb poučíš.
+| Můžeš být duchovní, podvodník
+| pohádkář, jiný lhář,
+| myslet, že světu poručíš.
+| Můžeš svou roli skvěle hrát,
+| však někdo jiný se bude smát,
+| než se z chyb svých poučíš.
 | 
 | Teď se modlí na oltáři 
-| Té vody stojaté
-| když svůj odraz dole uvidí
-| Je naplněný
-| Člověk ten neumí férově hrát
-| Chce všechno mít a nechce nic dát
-| Znám tu ženu
-| Od nás z domu
-| Co jen tak sedí
-| Skoro do kuropění
-| A ptá se kdo 
-| Mu může vzít
-| Právo k zabíjení?
+| té vody stojaté.
+| Když svůj odraz dole uvidí,
+| je naplněný.
+| Člověk ten neumí férově hrát,
+| chce všechno mít a nechce nic dát.
+| Znám tu ženu,
+| od nás z domu,
+| co jen tak sedí,
+| skoro do kuropění,
+| a ptá se kdo 
+| mu může vzít
+| právo k zabíjení?
 
