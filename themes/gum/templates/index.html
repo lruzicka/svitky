@@ -32,7 +32,7 @@
 
                                 <div class="row tag-row">
                                     {% if article.tags %}
-                                        <span>Tagged as : </span>
+                                        <span>Štítky : </span>
                                         {% for tag in article.tags %}
                                             <a class="danger label" href="{{ SITEURL }}/{{ tag.url }}">{{ tag|e }}</a>
                                         {% endfor %}
